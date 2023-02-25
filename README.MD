@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mujeeb Ansari</h1>
 <h3 align="center">Specializing in React,Vue, Nuxt.js, and Next.js Technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mujeeb100&label=Profile%20views&color=0e75b6&style=flat" alt="mujeeb100" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujeeb100" alt="mujeeb100" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mujeeb20010" target="blank"><img src="https://img.shields.io/twitter/follow/mujeeb20010?logo=twitter&style=for-the-badge" alt="mujeeb20010" /></a> </p>
 
